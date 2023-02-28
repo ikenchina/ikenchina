@@ -15,5 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikenchina&show_icons=true&theme=tokyonight)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikenchina)](https://github.com/ikenchina/github-readme-stats)
+
+
 ![Visitor Count](https://profile-counter.glitch.me/ikenchina/count.svg)
 
